@@ -96,3 +96,4 @@ Big thank you to each of the following github users for contributing to Sketchbo
 - [aleqsunder](https://github.com/aleqsunder)
 - [barhatsor](https://github.com/barhatsor)
 - [danshuri](https://github.com/danshuri)
+\nSee [Network Guide](docs/NETWORK.md) for details about multiplayer messages.
